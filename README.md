@@ -6,6 +6,15 @@ Welcome to the  Property Management repository! Our engaging website is designed
 
 Here are some enticing snapshots showcasing the features and functionalities of our Property Management:
 
+![Screenshot (16)](https://github.com/mantukumaryadav/Property-Management/assets/65592276/950af865-1221-4ab5-866c-27ded038c211)
+![Screenshot 2024-05-17 145452](https://github.com/mantukumaryadav/Property-Management/assets/65592276/f49d2ef0-a746-4c0e-8551-76c03e610379)
+![Screenshot (14)](https://github.com/mantukumaryadav/Property-Management/assets/65592276/40468d25-810d-450b-9f88-9e813bf55ea8)
+![Screenshot 2024-05-17 145405](https://github.com/mantukumaryadav/Property-Management/assets/65592276/1a6dec03-1195-48d8-b936-5dacd0c44469)
+![Screenshot (15)](https://github.com/mantukumaryadav/Property-Management/assets/65592276/25165dde-8f4a-4642-918e-8abc1b6124d9)
+
+
+
+
 
 ## About
 
